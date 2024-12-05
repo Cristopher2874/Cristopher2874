@@ -22,9 +22,9 @@
 <h2>⚙️ Stats</h2>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristopher2874&show_icons=true&locale=en&layout=compact" alt="cristopher2874" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristopher2874&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="cristopher2874" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristopher2874&show_icons=true&locale=en" alt="cristopher2874" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristopher2874&show_icons=true&locale=en&theme=tokyonight" alt="cristopher2874" /></p>
 
 <h2>📲 Contact</h2>
 <a href="https://www.linkedin.com/in/cristopherhdz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristopher_2874" height="30" width="40" /></a>
