@@ -1,6 +1,8 @@
 <h1 align="center"> Hello! I'm Cristopher </h1>
 <h3>👋 About Me: Creativity, innovation and passion to move forward</h3>
 
+- 🌍 Oracle Machine Learning Engineer – Intern (Oracle MDC)
+
 - 📘 Current Mechatronics Engineering student at Universidad Autónoma de San Luis Potosí
 
 - 💻 Junnior programmer, software and robotics developer
@@ -28,4 +30,3 @@
 
 <h2>📲 Contact</h2>
 <a href="https://www.linkedin.com/in/cristopherhdz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristopher_2874" height="30" width="40" /></a>
-<a href="https://www.instagram.com/cristopher_hdz04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afr.2903" height="30" width="40" /></a>
